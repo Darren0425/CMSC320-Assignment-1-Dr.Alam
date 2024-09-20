@@ -1,3 +1,7 @@
+Q3: What is the difference between merging and rebasing?
+
+Answer: Git merge preserves the history of the repository, while git rebase "squashes" the history and moves main to branch. 
+
 Q2: What field could data science be applied to? Give and Example and how it might help
 
 Answer: Data Science can be used for the medical field to help keep track of patient data, analyzing new diseases, and helping find patterns that exist within that data. 
