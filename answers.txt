@@ -1,3 +1,7 @@
+Q4: What skills do you hope to improve during this course?
+
+Answers: Programming skills
+
 Q3: What is the difference between merging and rebasing?
 
 Answer: Git merge preserves the history of the repository, while git rebase "squashes" the history and moves main to branch. 
